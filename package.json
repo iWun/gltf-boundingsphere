@@ -1,0 +1,27 @@
+{
+  "name": "gltf-boundingsphere",
+  "version": "1.0.0",
+  "description": "Computes the bounding sphere of a gltf model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iWun/gltf-boundingsphere.git"
+  },
+  "keywords": [
+    "gltf",
+    "bounding",
+    "boundingsphere"
+  ],
+  "author": "xingwangchan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iWun/gltf-boundingsphere/issues"
+  },
+  "homepage": "https://github.com/iWun/gltf-boundingsphere#readme",
+  "dependencies": {
+    "cesium": "^1.40.0"
+  }
+}
